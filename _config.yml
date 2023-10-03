@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kelsey LUnd"
+title                    : "Kelsey Lund"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
