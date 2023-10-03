@@ -1,7 +1,7 @@
 ---
 title: "Kilonovae Across the Nuclear Physics Landscape: The Impact of Nuclear Physics Uncertainties on r-process-powered Emission"
 collection: publications
-permalink: /publication/2021_Kilonova_Landscape
+permalink: /publication/2021-09-10-Kilonova_Landscape
 excerpt: "Nuclear physics sensitivity study for r-process nucleosynthesis.'
 date: 2021-09-10
 venue: 'The Astrophysical Journal'

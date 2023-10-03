@@ -6,7 +6,7 @@ excerpt: 'An investigation of superheavy element population in binary neutron st
 date: 2023-06-29
 venue: 'The Astrophysical Journal Letters'
 paperurl: 'https://iopscience.iop.org/article/10.3847/2041-8213/acd9cb'
-citation: 'Holmbeck, E.M., Barnes, J., <b>Lund, K.L. </b> et al. (2023). &quot;Superheavy Elements in Kilonovae&quot; <i>The Astrophysical Journal Letters</i>. 951(L13).'
+citation: 'Holmbeck, E.M., Barnes, J., <b>Lund, K.A. </b> et al. (2023). &quot;Superheavy Elements in Kilonovae&quot; <i>The Astrophysical Journal Letters</i>. 951(L13).'
 abstract: 'As LIGO-Virgo-KAGRA enters its fourth observing run, a new opportunity to search for electromagnetic
 counterparts of compact object mergers will also begin. The light curves and spectra from the first “kilonova”
 associated with a binary neutron star merger (NSM) suggests that these sites are hosts of the rapid neutron capture
