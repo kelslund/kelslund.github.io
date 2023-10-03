@@ -15,26 +15,23 @@ Education
 * M.S. Physics, North Carolina State University, 2020
 * Ph.D Physics, North Carolina State University, 2024 (expected)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Los Alamos National Laboratory: Graduate Student Researcher (2020-present)
+  * Mentors: Jonah Miller, Matthew Mumpower
+  * Center for Nonlinear Studies: Graduate Research Fellowship (2022, 2023)
+  * Seaborg Institute: Graduate Research Fellowship (Summer 2022)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* North Carolina State University: Graduate Student Researcher (2018-Present)
+  * PhD Supervisor: Gail McLaughlin
+
+* National Radio Astronomy Observatory: National Astronomy Consortium Site Coordinator (Summer 2017)
+
+* National Radio Astronomy Observatory: Research Assistant (Summer 2016)
+  * Mentor: Christopher Hales
+
+* University of California San Diego: Undergraduate Research Assistant (Spring 2014-2017)
+  * Mentor: George Fuller
 
 Publications
 ======
@@ -54,6 +51,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Outreach
 ======
-* Currently signed in to 43 different slack teams
+* 2023 Jan: Astronomy Days at North Caroline Museum of Natural Sciences
+* 2022 Nov: Public Talk at Triangle Astronomy on Tap in Durham, NC
+* 2020 Jan: Astronomy Days at North Carolina Museum of Natural Sciences
+* 2017 Jul: Designed plan for Galaxy Garden at VLA visitor center adapted to the high altitude desert environment of the Plains of San Agustin, NM
+* 2017 Jul: Restored 2-dish interferometer at Frank T. Etscorn Observatory in Socorro, NM
+* 2016 Jul: Public Tours of Very Large Array (VLA) facilities near Socorro, NM
