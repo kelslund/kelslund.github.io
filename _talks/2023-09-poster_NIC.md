@@ -2,7 +2,7 @@
 title: "Magnetic Field Effects on Nucleosynthesis from Merger Outflows"
 collection: talks
 type: "Poster"
-permalink: /talks/2023-NIC
+talkurl: 'https://indico.ibs.re.kr/event/548/'
 venue: "Nuclei in the Cosmos XVII"
 date: 2023-09-19
 location: "Daejeon, Republic of Korea"
