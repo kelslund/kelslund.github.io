@@ -5,5 +5,5 @@ type: "Contributed Talk"
 talkurl: 'https://www.ectstar.eu/workshops/micra2023-microphysics-in-computational-relativistic-astrophysics/'
 venue: "Microphysics in Computational Relativistic Astrophysics (MICRA)"
 date: 2023-09-15
-location: "ECT\*, Trento, Italy"
+location: "Trento, Italy"
 ---
