@@ -26,10 +26,10 @@
       </div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% if post.talkurl %}
+        <a href="{{ post.talkurl }}">{{ title }}</a> <a href="{{ post.talkurl }}"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ post.url }}" rel="permalink">{{ title }}</a>
+        <h>{{ title }}</h>
       {% endif %}
     </h2>
     {% if post.read_time %}
