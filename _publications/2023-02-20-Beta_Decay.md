@@ -2,7 +2,7 @@
 title: "The Influence of Beta-decay Rates on r-process Observables"
 collection: publications
 permalink: /publication/2023_Beta_Decay
-excerpt: 'An investigation of the sensitivity of r-process observables on beta decay rates.'
+excerpt: 'An investigation of the sensitivity of r-process observables to beta decay rates.'
 date: 2023-02-20
 venue: 'The Astrophysical Journal'
 paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4357/acaf56'
