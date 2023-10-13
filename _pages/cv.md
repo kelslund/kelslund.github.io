@@ -45,12 +45,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Outreach
 ======
 * 2023 Jan: Astronomy Days at North Caroline Museum of Natural Sciences
